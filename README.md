@@ -11,6 +11,7 @@ Then running
 
 Here the card combination given is 2 of Hearts, 3 of Clubs, Jack of Spades and Ace of Diamonds.
 Below are all the number values of the cards:
+
   23456789TJQKA
 
 It is recommended to stay below 4 cards as permutations are in the order of factorial growth.
